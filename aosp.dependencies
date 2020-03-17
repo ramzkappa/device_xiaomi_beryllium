@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+[
+  {
+    "repository": "android_device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common"
+  }
+]
+=======
+[
+  {
+    "repository": "android_device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common"
+  }
+]
+>>>>>>> 633b0f31d856f071bfae4ec3b61eb868ab33b080
